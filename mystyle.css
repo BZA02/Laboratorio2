@@ -29,7 +29,7 @@ body {
   {
     white-space: nowrap;
     width: 800px;
-    border: 4px solid #661f1f;
+    border: 5px solid #661f1f;
     overflow: hidden;
     text-overflow: clip;
   }
